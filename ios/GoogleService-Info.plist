@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>627328686738-52416drq2uklhfilmladpq164j3s634j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.627328686738-52416drq2uklhfilmladpq164j3s634j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA9URd5inDt8MV6D4TmYBf6o3HbxVob3dU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>627328686738</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jp.co.milize.miruho</string>
+	<key>PROJECT_ID</key>
+	<string>miruho-native</string>
+	<key>STORAGE_BUCKET</key>
+	<string>miruho-native.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:627328686738:ios:d7b87e3c6449e4fdef644b</string>
+	<key>DATABASE_URL</key>
+	<string>https://miruho-native.firebaseio.com</string>
+</dict>
+</plist>

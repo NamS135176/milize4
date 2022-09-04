@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "627328686738",
+    "firebase_url": "https://miruho-native.firebaseio.com",
+    "project_id": "miruho-native",
+    "storage_bucket": "miruho-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627328686738:android:cd7a3e506e32feceef644b",
+        "android_client_info": {
+          "package_name": "jp.co.milize.miruho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627328686738-8ipup99eaan1pgdlt1pd32jjr6ckb859.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDE_qY_c_tdjR9pS5WYKBtLIwbPwvtuu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627328686738-8ipup99eaan1pgdlt1pd32jjr6ckb859.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "627328686738-52416drq2uklhfilmladpq164j3s634j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.milize.miruho",
+                "app_store_id": "1456236763"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627328686738:android:a33447d2db3bf833ef644b",
+        "android_client_info": {
+          "package_name": "jp.co.milize.miruho.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627328686738-8ipup99eaan1pgdlt1pd32jjr6ckb859.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDE_qY_c_tdjR9pS5WYKBtLIwbPwvtuu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627328686738-8ipup99eaan1pgdlt1pd32jjr6ckb859.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "627328686738-52416drq2uklhfilmladpq164j3s634j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.milize.miruho",
+                "app_store_id": "1456236763"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627328686738:android:f5d5d97dd9779410ef644b",
+        "android_client_info": {
+          "package_name": "jp.co.milize.miruho.local"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627328686738-8ipup99eaan1pgdlt1pd32jjr6ckb859.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDE_qY_c_tdjR9pS5WYKBtLIwbPwvtuu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627328686738-8ipup99eaan1pgdlt1pd32jjr6ckb859.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "627328686738-52416drq2uklhfilmladpq164j3s634j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.milize.miruho",
+                "app_store_id": "1456236763"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
